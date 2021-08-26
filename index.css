@@ -1,0 +1,13 @@
+Body{
+    background-color: rgb(52, 56, 65);
+}
+.cabecalho{
+    background-color: blue;
+    padding: 16px 0;
+}
+.cabecalho .login{
+    color: #ffffff;
+    padding: 0 20px;
+    overflow-x: hidden;  
+    margin-top: 20px; 
+}
